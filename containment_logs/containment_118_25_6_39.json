@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-10-11T09:12:59.856944Z",
+  "action": "FIREWALL_BLOCK",
+  "target_ip": "118.25.6.39",
+  "rule_name": "SOAR_BLOCK_118.25.6.39",
+  "status": "SIMULATED_SUCCESS",
+  "details": "Outbound network communication to 118.25.6.39 blocked across all profiles."
+}

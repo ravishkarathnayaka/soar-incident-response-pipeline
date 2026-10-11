@@ -1,0 +1,10 @@
+{
+  "alert_id": "SEC-SOAR-2026-003",
+  "timestamp": "2026-10-11T09:18:00Z",
+  "host": "vm-windows-target",
+  "user": "SYSTEM",
+  "process_name": "svchost.exe",
+  "technique": "T1071 - Standard DNS Query",
+  "c2_ip": "8.8.8.8",
+  "description": "Legitimate DNS resolution request to public provider."
+}

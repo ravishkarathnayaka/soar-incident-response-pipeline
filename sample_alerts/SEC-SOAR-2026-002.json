@@ -1,0 +1,10 @@
+{
+  "alert_id": "SEC-SOAR-2026-002",
+  "timestamp": "2026-10-11T09:16:30Z",
+  "host": "vm-windows-target",
+  "user": "azureuser",
+  "process_name": "rundll32.exe",
+  "technique": "T1105 - Ingress Tool Transfer",
+  "c2_ip": "192.168.1.100",
+  "description": "Suspicious remote script cradle download attempted from rogue IP."
+}

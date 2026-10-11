@@ -1,0 +1,10 @@
+{
+  "alert_id": "SEC-SOAR-2026-001",
+  "timestamp": "2026-10-11T09:15:00Z",
+  "host": "vm-windows-target",
+  "user": "azureuser",
+  "process_name": "powershell.exe",
+  "technique": "T1059.001 - PowerShell C2 Beaconing",
+  "c2_ip": "118.25.6.39",
+  "description": "Outbound HTTP beacon detected to known Cobalt Strike infrastructure."
+}
